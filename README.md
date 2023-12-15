@@ -1,7 +1,7 @@
 # MiAI_Kaggle_Intro
 A demo of using Kaggle to train Model
 
-Video link:  https://youtu.be/1ZidAtKpAz0
+Video link:  [https://youtu.be/1ZidAtKpAz0](https://youtu.be/fXnrFGjSwrY)
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
